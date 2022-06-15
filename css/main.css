@@ -41,7 +41,7 @@ body{
 }
 /*       header      */
 .header{
-    background:url('../assets/img/city.jpg');
+    background-image:url('../assets/img/city.jpg');
     height: calc(100vh - 154px);
     background-position: center;
     background-size: cover;
